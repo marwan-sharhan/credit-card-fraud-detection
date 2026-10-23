@@ -1,0 +1,15 @@
+{
+    "project_name": "Credit Card Fraud Detection",
+    "model_name": "Random Forest",
+    "decision_threshold": 0.193001,
+    "threshold_selection": "Validation set",
+    "test_precision": 0.8261,
+    "test_recall": 0.7308,
+    "test_f1_score": 0.7755,
+    "test_true_positives": 38,
+    "test_false_positives": 8,
+    "test_false_negatives": 14,
+    "test_true_negatives": 42501,
+    "created_at_utc": "2026-10-23T15:13:48.545144+00:00",
+    "note": "The model contains a custom feature transformer. Its class definition must be available when loading the artifact."
+}
